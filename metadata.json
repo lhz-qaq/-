@@ -1,0 +1,6 @@
+{
+  "name": "夜灯记：人间未尽之事",
+  "description": "深谙东方生死观（生-化-归循环）的数字存在仪式空间。放飞数字孔明灯，归档思念与执念。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
